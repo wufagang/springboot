@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: Dhcc1024
+    url: jdbc:mysql://192.144.144.119:3306/hrp_ecs?useUnicode=true&characterEncoding=utf8&useSSL=false&autoReconnect=true&failOverReadOnly=false&allowMultiQueries=true&useAffectedRows=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
